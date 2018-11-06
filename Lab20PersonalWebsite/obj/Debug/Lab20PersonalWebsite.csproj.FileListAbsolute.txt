@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Lab20PersonalWebsite\Lab20PersonalWebsite\bin\Lab20PersonalWebsite.dll.config
+C:\Users\user\source\repos\Lab20PersonalWebsite\Lab20PersonalWebsite\bin\Lab20PersonalWebsite.dll
+C:\Users\user\source\repos\Lab20PersonalWebsite\Lab20PersonalWebsite\bin\Lab20PersonalWebsite.pdb
+C:\Users\user\source\repos\Lab20PersonalWebsite\Lab20PersonalWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\Lab20PersonalWebsite\Lab20PersonalWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\Lab20PersonalWebsite\Lab20PersonalWebsite\obj\Debug\Lab20PersonalWebsite.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lab20PersonalWebsite\Lab20PersonalWebsite\obj\Debug\Lab20PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab20PersonalWebsite\Lab20PersonalWebsite\obj\Debug\Lab20PersonalWebsite.dll
+C:\Users\user\source\repos\Lab20PersonalWebsite\Lab20PersonalWebsite\obj\Debug\Lab20PersonalWebsite.pdb
